@@ -14,7 +14,7 @@
 //    'https://panuts-logistica.netlify.app'
 //    'https://logistica.panuts.com'
 // ─────────────────────────────────────────────────────────────────────────────
-const PANUTS_APP_URL = 'https://PENDIENTE.netlify.app'; // ← CAMBIAR ESTO
+const PANUTS_APP_URL = 'https://cavalpe7.github.io/Pruebas/'; // ← CAMBIAR ESTO
 
 // ─── Sincronización de Pedidos ───────────────────────────────────────────────
 
